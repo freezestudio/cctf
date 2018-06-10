@@ -2,9 +2,9 @@
 
 ## Assert
 
-* Assert::Equal
-* Assert::NotEqual
-* Assert::Null
-* Assert::NotNull
-* Assert::IsTruthy
-* Assert::IsFalsely
+* assert::equal
+* assert::not_equal
+* assert::is_null
+* assert::is_not_null
+* assert::is_truthy
+* assert::is_falsy
